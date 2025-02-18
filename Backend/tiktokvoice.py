@@ -48,6 +48,9 @@ VOICES = [
     "br_005",  # Portuguese BR - Male
     # ASIA VOICES
     "id_001",  # Indonesian - Female
+    "id_002",  # Indonesian
+    "id_003",  # Indonesian
+    "id_004",  # Indonesian 
     "jp_001",  # Japanese - Female 1
     "jp_003",  # Japanese - Female 2
     "jp_005",  # Japanese - Female 3
